@@ -83,4 +83,3 @@ const idInvalidCardCompanies = (invalidCompany) => {
     }
   }
 };
-console.log(idInvalidCardCompanies(mystery3));
